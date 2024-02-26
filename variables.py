@@ -18,13 +18,17 @@ VARIABLE RULES:
     - can have numbers but not start with them    
 """
 
-# Single Assignmet of Variables
+'''
+    Single Assignmet of Variables
+'''
 # x = 5            # int
 # y = 4.8          # float
 # name = 'Gatonye' # str
 # is_on = False    # bool
 
-# Multiple assignments of Variables
+'''
+    Multiple assignments of Variables
+'''
 x, y, name, is_on = (5, 4.8, 'Gatonye', False)
 
 
