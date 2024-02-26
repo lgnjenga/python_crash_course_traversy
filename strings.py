@@ -22,7 +22,7 @@ age = 33
 #print('Hello, my name is {name} and I am {age} years old'.format(name=name, age=age))
 
 '''
-    3. F-Strings (3.6+)
+    3. F-Strings (Only works on Python3.6 and above)
 '''
 print(f'Hello, my name is {name} and I am {age} years old')
 
